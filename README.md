@@ -1,9 +1,13 @@
 👋 Hi there!
 
-🔭 I’m currently working on a React Dashboard project to enhance my frontend and component- based UI skills.
+🔭 I’m currently working on a** React Dashboard project** to enhance my frontend and component- based UI skills.
+
 🌱 I’m currently learning Data Structures and Algorithms (DAS) to improve my problem- solving and technical interview readiness.
+
 🤝 I’m looking to collaborate on open source React projects, especially those related to UI/UX and data visualization.
+
 💬 Ask me about React, JavaScript, Git, or Tailwind CSS
+
 ⚡ Fun fact: I love turning complex UIs into simple, reusable components 🔧
 
 📫 How to reach me:
