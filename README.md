@@ -1,14 +1,22 @@
-👋 Hi there!
+# Hi 👋 I'm Mohammad
 
-🔭 I’m currently working on a** React Dashboard project** to enhance my frontend and component- based UI skills.
+I'm a Frontend Developer who loves building modern and responsive web applications.
 
-🌱 I’m currently learning Data Structures and Algorithms (DAS) to improve my problem- solving and technical interview readiness.
+## 💻 Skills
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+- Git & GitHub
 
-🤝 I’m looking to collaborate on open source React projects, especially those related to UI/UX and data visualization.
+## 🚀 Currently Learning
+- Advanced React
+- Performance optimization
+- Modern frontend best practices
 
-💬 Ask me about React, JavaScript, Git, or Tailwind CSS
-
-⚡ Fun fact: I love turning complex UIs into simple, reusable components 🔧
+## 🎯 Goal
+My goal is to become a professional Frontend Developer and work as a freelancer or in a tech company.
 
 📫 How to reach me:
 
